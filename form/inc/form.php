@@ -16,7 +16,6 @@ class Form
 			else
 				return $this->_formAction();
 		}else if (!empty($_POST)) {
-			var_dump($_POST);
 			return $this->_formSubmit($_POST);
 		}
 		return $this->_formAction();
