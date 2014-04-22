@@ -5,9 +5,9 @@ class Config
 
 	private $config = array(
 		'host' => 'localhost',
-		'database' => 'kamilkrzywda',
-		'user' => 'kamilkrzywda',
-		'password' => 'killer4601243',
+		'database' => '',
+		'user' => '',
+		'password' => '',
 	);
 
 	public function __get($name)
