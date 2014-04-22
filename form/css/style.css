@@ -1,0 +1,38 @@
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:16px;
+	line-height:1.4em;
+}
+
+#wrapper{
+	width:900px;
+	margin:50px auto;
+}
+
+li{
+	width:500px;
+	float:left;
+}
+
+li label{
+	float:left;
+}
+
+li input, li textarea{
+	font-family: Arial, Helvetica, sans-serif;
+	float:right;
+	width:360px;
+	margin:0px 0px 10px 0px;
+	padding:5px;
+	border:1px solid silver;
+}
+
+h1{
+	margin:50px 0px;
+	font-size:30px;
+}
+
+table td{
+	padding:5px 10px;
+	border:1px solid silver;
+}
